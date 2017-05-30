@@ -1,0 +1,45 @@
+
+body{
+    background: #ffffff;
+}
+
+/*
+div{
+    background: #ffffff;
+    width: 600px;
+    padding: 10px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+*/
+
+.gyou{
+    display:flex;
+    list-style: none;
+    margin:20px;
+    /*border:1px solid red;*/
+}
+.retu1{
+    width:170px;
+    text-align: center;
+    /*border:1px solid blue;*/
+}
+
+.retu2{
+    width:500px;
+    /*text-align: center;
+    /*border:1px solid blue;*/
+}
+
+.p{
+    display:flex;
+    list-style: none;
+    margin:50px;
+    padding:10px;
+}
+
+.kakunin{
+    text-align: center;
+
+}
